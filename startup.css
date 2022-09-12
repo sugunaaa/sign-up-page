@@ -13,3 +13,11 @@ h1{
     color: aliceblue;
 
 }
+.btn{
+    border-radius: 300px;
+    padding: 20px 25px;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(234, 40, 40);
+    color: white;
+}
