@@ -10,7 +10,12 @@ body,html{
 }
 
 h1{
+    display: flex;
     color: aliceblue;
+    justify-content: center;
+    margin-top: 100px;
+    border-right: 100px;
+    border-color: rgb(234, 40, 40);
 
 }
 .btn{
@@ -20,4 +25,8 @@ h1{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: rgb(234, 40, 40);
     color: white;
+}
+.btn:hover{
+    background-color: brown;
+    border-width: 4px;
 }
