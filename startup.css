@@ -14,7 +14,7 @@ h1{
     color: aliceblue;
     justify-content: center;
     margin-top: 100px;
-    border-right: 100px;
+    border: 100px;
     border-color: rgb(234, 40, 40);
 
 }
@@ -25,6 +25,7 @@ h1{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: rgb(234, 40, 40);
     color: white;
+    justify-content: center;
 }
 .btn:hover{
     background-color: brown;
